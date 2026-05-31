@@ -23,3 +23,7 @@ A microservices-based healthcare application for managing and analyzing cardiac 
 - Kafka
 - Docker
 - MySQL
+
+## Architecture Diagram
+<img width="1280" height="827" alt="HLD" src="https://github.com/user-attachments/assets/9799111c-fd87-4ed2-8ab4-8fa8facf384d" />
+
